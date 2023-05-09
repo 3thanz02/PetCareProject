@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pet Care</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Favourites</string>
+    <string name="title_notifications">Account Information</string>
+</resources>
